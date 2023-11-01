@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Video Games Workshop" ] },
+    "summary": { "en": [ "Annotating Lana Del Ray's music video for \"Video Games\"" ] },
+    "items": [
+    ]
+}
