@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://madisoncastr.github.io/video-games-mv/annotations/lanadelrey-video-games-canvas-1-1-06.json",
+  "type": "AnnotationPage",
+  "label": "1:06",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lanadelrey-video-games-canvas-1-1-06-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "twillering within trees",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://madisoncastr.github.io/video-games-mv/lanadelrey-video-games/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://madisoncastr.github.io/video-games-mv/lanadelrey-video-games/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "66.0"
+        }
+      }
+    }
+  ]
+}

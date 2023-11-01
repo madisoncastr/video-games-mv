@@ -23,6 +23,48 @@
         "id": "https://madisoncastr.github.io/video-games-mv/lanadelrey-video-games/canvas-1/canvas",
         "type": "Canvas",
         "duration": 277.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://madisoncastr.github.io/video-games-mv/annotations/lanadelrey-video-games-canvas-1-1-02.json",
+            "label": {
+              "none": ["1:02"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://madisoncastr.github.io/video-games-mv/annotations/lanadelrey-video-games-canvas-1-0-58.json",
+            "label": {
+              "none": ["0:58"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://madisoncastr.github.io/video-games-mv/annotations/lanadelrey-video-games-canvas-1-1-06.json",
+            "label": {
+              "none": ["1:06"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://madisoncastr.github.io/video-games-mv/annotations/lanadelrey-video-games-canvas-1-0-05.json",
+            "label": {
+              "none": ["0:05"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://madisoncastr.github.io/video-games-mv/annotations/lanadelrey-video-games-canvas-1-0-51.json",
+            "label": {
+              "none": ["0:51"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://madisoncastr.github.io/video-games-mv/lanadelrey-video-games/canvas-1/paintings",
